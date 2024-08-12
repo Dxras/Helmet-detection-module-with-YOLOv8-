@@ -1,0 +1,5 @@
+train: C:\Users\semad\Desktop\Data\train
+val: C:\Users\semad\Desktop\Data\val
+
+nc: 3
+names: ['helmet','person', 'head']
